@@ -65,12 +65,12 @@ async function browserDownload(f){
 (function setupCompanion(){
  const pet=$('#pet');let drag=null,lastReaction=-1,reactionTimer;
  const reactions=[
-  {mood:'petted',label:'摸摸头',kind:'petting',particles:'♥',lines:['嗯……这个力度刚刚好。','鲸鱼娘充电中，再摸一下嘛。','今天的辛苦，被你摸走啦。']},
+  {mood:'petted',label:'摸摸头',kind:'petting',particles:'♥',lines:['嗯……这个力度刚刚好。','小鲸充电中，再摸一下嘛。','今天的辛苦，被你摸走啦。']},
   {mood:'shy',label:'害羞',kind:'bashful',particles:'♡',lines:['突、突然这么温柔，我会不好意思的。','脸红是因为热点太热，才不是因为你！','别看我啦……也不是不让你看。']},
-  {mood:'pout',label:'鼓脸',kind:'pouting',particles:'!',lines:['不是大肥鱼！是鲸、鱼、娘！','再揉就要收一碗白饭的费用啦！','哼！头发都被你揉乱了……']},
-  {mood:'sleepy',label:'困困',kind:'sleepy',particles:'☾',lines:['呼啊……没有文件的话，借我眯一小会儿。','抱着小枕头，也会帮你看好仓库的。','鲸鱼娘进入低功耗撒娇模式……']},
+  {mood:'pout',label:'鼓脸',kind:'pouting',particles:'!',lines:['不是大肥鱼！是小鲸！','再揉就要收一碗白饭的费用啦！','哼！头发都被你揉乱了……']},
+  {mood:'sleepy',label:'困困',kind:'sleepy',particles:'☾',lines:['呼啊……没有文件的话，借我眯一小会儿。','抱着小枕头，也会帮你看好仓库的。','小鲸进入低功耗撒娇模式……']},
   {mood:'surprised',label:'惊喜',kind:'surprised',particles:'✧',lines:['哇！是专门来找我玩的吗！','发现了！今天的小幸运是你！','诶？还有奖励？我已经准备好啦！']},
-  {mood:'smug',label:'得意',kind:'smug',particles:'✦',lines:['哼哼，能干的鲸鱼娘就是我！','这点小事，交给本鲸鱼就好。','摸头奖励收到！允许你再夸我三句。']},
+  {mood:'smug',label:'得意',kind:'smug',particles:'✦',lines:['哼哼，能干的小鲸就是我！','这点小事，交给本鲸鱼就好。','摸头奖励收到！允许你再夸我三句。']},
   {mood:'happy',label:'开心',kind:'delighted',particles:'♥',lines:['好感度 +1！今天也会努力营业！','给你一个小小的鲸鱼祝福！','被你找到啦！来，击个掌。']},
   {mood:'idle',label:'馋馋',kind:'hungry',particles:'✦',lines:['文件我来保管，白饭你来保管……不，我也来！','摸头能兑换一碗白饭吗？','今天的工作餐，可以再添一碗吗？']}
  ];

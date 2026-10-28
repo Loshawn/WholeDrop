@@ -26,7 +26,7 @@ for index,mood in enumerate([] if args.web_only else moods):
     frame.save(web/f'assets/whale-{mood}.webp',format='WEBP',quality=88,method=6)
     frames.append(frame)
 html = (web / "index.html").read_text(encoding="utf-8")
-html = html.replace('<!--WHALE-->',f'<img id="whale" data-mood="idle" src="/assets/whale-idle.webp?v={version}" alt="DeepSeek 娘・鲸鱼娘" width="280" height="240">').replace('/*STYLE*/', (web/'style.css').read_text(encoding='utf-8'))
+html = html.replace('<!--WHALE-->',f'<img id="whale" data-mood="idle" src="/assets/whale-idle.webp?v={version}" alt="小鲸" width="280" height="240">').replace('/*STYLE*/', (web/'style.css').read_text(encoding='utf-8'))
 html = html.replace('/*SCRIPT*/', (web/'app.js').read_text(encoding='utf-8')).replace('__CHARACTER_VERSION__',version)
 (web/'preview.html').write_text(html, encoding='utf-8')
 data = gzip.compress(html.encode('utf-8'), compresslevel=9, mtime=0)

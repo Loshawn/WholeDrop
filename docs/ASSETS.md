@@ -1,6 +1,6 @@
 # 图片与生成资源
 
-角色为“DeepSeek 娘 / 鲸鱼娘”社区角色相关创作，非官方联名。
+角色为“DeepSeek 娘 / 小鲸”社区角色相关创作，非官方联名。
 
 - 原始六状态图集：`web/assets/imagegen/whale-chan-atlas-v1.png`。
 - 额外表情 PNG：`web/assets/imagegen/reactions-v1/`。
