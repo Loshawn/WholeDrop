@@ -1,0 +1,15 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.h text eol=lf
+*.cpp text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.png binary
+*.webp binary
+firmware/file_share/character_assets.h linguist-generated=true
+firmware/file_share/web_assets.h linguist-generated=true
+firmware/file_share/whale_sprites.h linguist-generated=true
+web/preview.html linguist-generated=true

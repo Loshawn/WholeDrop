@@ -1,0 +1,37 @@
+{
+  "mode": "built-in image_gen",
+  "reference": "web/assets/whale-idle.webp",
+  "transparent_background": true,
+  "assets": [
+    {
+      "name": "petted",
+      "source": "web/assets/imagegen/reactions-v1/petted.png",
+      "prompt": "Use case: identity-preserve. Create ONE transparent PNG reaction sprite for the WhaleDrop web companion. Reference image is the exact character identity and art-style reference. Preserve this SAME adorable chibi anime whale girl: blue gradient long hair, blue eyes, whale-fin side ears, navy-and-white maid uniform with frilly headband, blue bow, whale tail. Same soft detailed cel shading and proportions, large expressive head, upper-body framing, whole head and both hands visible with safe margins. Fully clothed, friendly and wholesome. No rice bowl unless specified. One character only, centered, no words, no watermark, no panel grid, genuinely transparent background. Must read clearly at 150 pixels tall. Change expression and hand pose distinctly as specified: Blissfully enjoying a gentle head pat: eyes softly closed in curved happy arcs, small peaceful smile, rosy cheeks, head leaning slightly into a gentle disembodied hand patting the TOP of her hair, hands tucked near chest. Tender relaxed expression."
+    },
+    {
+      "name": "shy",
+      "source": "web/assets/imagegen/reactions-v1/shy.png",
+      "prompt": "Use case: identity-preserve. Create ONE transparent PNG reaction sprite for the WhaleDrop web companion. Reference image is the exact character identity and art-style reference. Preserve this SAME adorable chibi anime whale girl: blue gradient long hair, blue eyes, whale-fin side ears, navy-and-white maid uniform with frilly headband, blue bow, whale tail. Same soft detailed cel shading and proportions, large expressive head, upper-body framing, whole head and both hands visible with safe margins. Fully clothed, friendly and wholesome. No rice bowl unless specified. One character only, centered, no words, no watermark, no panel grid, genuinely transparent background. Must read clearly at 150 pixels tall. Change expression and hand pose distinctly as specified: Shy and flustered: noticeably pink blushing cheeks, gaze turned slightly aside, small bashful smile, both hands softly hiding the lower cheeks, shoulders tucked in. Tiny heart near head."
+    },
+    {
+      "name": "pout",
+      "source": "web/assets/imagegen/reactions-v1/pout.png",
+      "prompt": "Use case: identity-preserve. Create ONE transparent PNG reaction sprite for the WhaleDrop web companion. Reference image is the exact character identity and art-style reference. Preserve this SAME adorable chibi anime whale girl: blue gradient long hair, blue eyes, whale-fin side ears, navy-and-white maid uniform with frilly headband, blue bow, whale tail. Same soft detailed cel shading and proportions, large expressive head, upper-body framing, whole head and both hands visible with safe margins. Fully clothed, friendly and wholesome. No rice bowl unless specified. One character only, centered, no words, no watermark, no panel grid, genuinely transparent background. Must read clearly at 150 pixels tall. Change expression and hand pose distinctly as specified: Playfully indignant tsundere pout: puffed cheeks, furrowed eyebrows but cute and harmless, arms folded over chest, face turned slightly aside, one tiny cartoon irritation symbol. No anger violence."
+    },
+    {
+      "name": "sleepy",
+      "source": "web/assets/imagegen/reactions-v1/sleepy.png",
+      "prompt": "Use case: identity-preserve. Create ONE transparent PNG reaction sprite for the WhaleDrop web companion. Reference image is the exact character identity and art-style reference. Preserve this SAME adorable chibi anime whale girl: blue gradient long hair, blue eyes, whale-fin side ears, navy-and-white maid uniform with frilly headband, blue bow, whale tail. Same soft detailed cel shading and proportions, large expressive head, upper-body framing, whole head and both hands visible with safe margins. Fully clothed, friendly and wholesome. No rice bowl unless specified. One character only, centered, no words, no watermark, no panel grid, genuinely transparent background. Must read clearly at 150 pixels tall. Change expression and hand pose distinctly as specified: Sleepy and content: half-lidded drowsy eyes, gentle little yawn covered by one hand, other hand hugging a tiny light-blue pillow, head drooping slightly. No lettering or sleep text."
+    },
+    {
+      "name": "surprised",
+      "source": "web/assets/imagegen/reactions-v1/surprised.png",
+      "prompt": "Use case: identity-preserve. Create ONE transparent PNG reaction sprite for the WhaleDrop web companion. Reference image is the exact character identity and art-style reference. Preserve this SAME adorable chibi anime whale girl: blue gradient long hair, blue eyes, whale-fin side ears, navy-and-white maid uniform with frilly headband, blue bow, whale tail. Same soft detailed cel shading and proportions, large expressive head, upper-body framing, whole head and both hands visible with safe margins. Fully clothed, friendly and wholesome. No rice bowl unless specified. One character only, centered, no words, no watermark, no panel grid, genuinely transparent background. Must read clearly at 150 pixels tall. Change expression and hand pose distinctly as specified: Delightfully surprised: eyes wide sparkling with bright highlights, small round open mouth, hands raised near cheeks, two small sparkle symbols. Expressive joyful astonishment."
+    },
+    {
+      "name": "smug",
+      "source": "web/assets/imagegen/reactions-v1/smug.png",
+      "prompt": "Use case: identity-preserve. Create ONE transparent PNG reaction sprite for the WhaleDrop web companion. Reference image is the exact character identity and art-style reference. Preserve this SAME adorable chibi anime whale girl: blue gradient long hair, blue eyes, whale-fin side ears, navy-and-white maid uniform with frilly headband, blue bow, whale tail. Same soft detailed cel shading and proportions, large expressive head, upper-body framing, whole head and both hands visible with safe margins. Fully clothed, friendly and wholesome. No rice bowl unless specified. One character only, centered, no words, no watermark, no panel grid, genuinely transparent background. Must read clearly at 150 pixels tall. Change expression and hand pose distinctly as specified: Adorably smug and proud: confident half-lidded eyes, playful closed-mouth cat-like smirk, one hand resting on hip, other giving a small V-sign next to cheek, chin slightly raised. Friendly mischievous self-satisfaction."
+    }
+  ]
+}

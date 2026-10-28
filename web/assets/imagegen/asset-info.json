@@ -1,0 +1,11 @@
+{
+  "character": "DeepSeek 娘 / 鲸鱼娘 (community fan character)",
+  "generation_mode": "built-in image_gen",
+  "atlas": "whale-chan-atlas-v1.png",
+  "prompt": "prompt.txt",
+  "reference_page": "https://aigengtu.com/zh/meme/303",
+  "character_reference": "https://aigengtu.com/DeepSeek%E5%A8%98",
+  "layout": "3 columns, 2 rows: boot, idle, uploading, downloading, happy, error",
+  "processing": "Fixed-cell slicing, WebP packaging, resize and RGB565 palette indexing for LCD; preserves source alpha. No remote image requests at runtime.",
+  "reference_note": "Third-party reference photograph is excluded; reference URLs are retained for provenance."
+}

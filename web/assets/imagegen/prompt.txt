@@ -1,0 +1,13 @@
+Use case: stylized-concept
+Asset type: a single production sprite atlas for an offline ESP32 file-sharing web page and a 240x240 LCD.
+Input image: reference for the DeepSeek whale-girl character identity only. Do not reproduce its text, layout, pointing hand, or meme panel.
+Primary request: draw the same recognizable Q-version anime whale girl in SIX clean expression/gesture frames on a genuinely transparent background. Long deep-blue hair with lighter blue tips, blue eyes, a curved ahoge, small whale-fin ears with white undersides, white frilled maid headband and blue bow, navy and white modest maid dress/apron, large blue whale tail visible behind her. Big round chibi face, warm blush, expressive eyes; polished anime sticker illustration, confident clean navy outlines, soft cel shading and limited blue/white palette. The face must remain legible when reduced to a 160-pixel-high image. Use a waist-up / compact chibi framing with the tail curling beside her, not a tiny distant full-body character.
+Composition: EXACTLY 3 equal columns and 2 equal rows, six evenly sized square cells, no outlines or grid lines. Suggested canvas 1536x1024. Each character is entirely inside its own cell with comfortable transparent margins. Consistent size, anatomy, outfit, palette and lighting in all six cells, no overlap across cells. No text, numbers, watermark or backdrop anywhere.
+Order, left-to-right top-to-bottom:
+1. Boot / sleepy: gently dozing, closed eyes, hugging a small blue pillow, peaceful rather than unwell.
+2. Idle / ready: friendly slightly smug smile, holding a small bowl of plain white rice; welcoming free hand.
+3. Upload / focused: determined working expression, carefully receiving a small blue file card in both hands; subtle upward arrow on the card only, no letters.
+4. Download / sending: cheerful attentive expression, offering a small blue document envelope to the viewer; small downward arrow on the envelope only.
+5. Success / proud: happy closed crescent eyes, broad smile and thumbs up, two tiny celebratory sparkles.
+6. Recovering / puzzled: mild worried pout, one small sweat drop, holding a tiny wrench; reassuring and actively fixing things, not crying or angry.
+Constraints: actual transparent alpha background. No whale animal replacing the girl. No sexualization, exposed midriff, cleavage, lingerie, or extra characters. Do not include speech bubbles. Preserve the six-cell order and clear separation.
